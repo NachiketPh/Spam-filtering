@@ -1,2 +1,2 @@
 # Spam-filtering
-this is the Spam Email end to end project
+This is the Spam Email end to end project
